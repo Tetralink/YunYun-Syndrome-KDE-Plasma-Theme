@@ -1,4 +1,4 @@
-# YunYun-Syndrome-KDE-Plasma-Theme
+# YunYun Syndrome : KDE Plasma Theme
 A Yunyun Syndrome!? Rhythm Psychosis theme for KDE Plasma 
 
 ![preview1](1.png)
