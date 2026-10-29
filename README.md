@@ -8,6 +8,7 @@ A Yunyun Syndrome!? Rhythm Psychosis theme for KDE Plasma
 2. Put the YunYunSyndrome from plasma/desktoptheme/ into ~/.local/share/plasma/desktoptheme/
 3. Put the YunYunSyndrome.colors from  color-schemes/ into ~/.local/share/color-schemes/
 4. The icon aren't made by me, you can find the download here : https://store.kde.org/p/1305251
+
 After that, change your settings colors, Window Decoration and Plasma Style in your app settings.
 
 ## Other preview : 
